@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkehren&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![gkehren's 42 stats](https://badge42.vercel.app/api/v2/cl6wwb2ar00160gl0qdo3e7nu/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **gkehren/gkehren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
